@@ -1,0 +1,59 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.header-main {
+    text-align: center;
+}
+
+.content-main {
+    margin:0 auto;
+}
+
+.left-panel-content {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+    position: absolute;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.left-panel-letter {
+    cursor: pointer;
+}
+
+.center-panel-countries {
+    display: inline-block;
+    width: 50%;
+    margin-left: 92px;
+    margin-top: 75px;
+}
+
+.center-panel-country {
+    border-bottom: 1px solid grey;
+}
+
+.find-inside {
+    position: absolute;
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin: 10px;
+    display: inline-block;
+    left: 80px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.no-select {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.counter {
+    padding: 10px 0 10px 0;
+}
