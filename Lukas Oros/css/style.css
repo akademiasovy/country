@@ -1,0 +1,16 @@
+
+body {
+    background-image: url(../img/background.jpg) !important;
+    margin: 0, auto !important;
+    color: white !important;
+}
+
+a {
+    color: #D50000 !important;
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+#text{
+    text-align: center !important;
+}
